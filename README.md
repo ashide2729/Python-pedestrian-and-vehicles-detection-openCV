@@ -7,4 +7,10 @@ The repo contains the implementation of pedestrians detection in Python using Op
 
 ### Output:
 
-![Detected pedestrians](output.png "Detected pedestrians")
+#### Pedestrians
+
+![Detected pedestrians](pedestrians_output.png "Detected pedestrians")
+
+#### Pedestrians and Vehicles
+
+![Detected pedestrians and vehicles](pedestrians_vehicles_output.png "Detected pedestrians and vehicles")
